@@ -1,0 +1,48 @@
+c:\users\hp\documents\visual studio 2015\Projects\material design\material design\bin\Debug\material design.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\material design\material design\bin\Debug\material design.exe
+c:\users\hp\documents\visual studio 2015\Projects\material design\material design\bin\Debug\material design.pdb
+c:\users\hp\documents\visual studio 2015\Projects\material design\material design\bin\Debug\MaterialDesignColors.dll
+c:\users\hp\documents\visual studio 2015\Projects\material design\material design\bin\Debug\MaterialDesignThemes.Wpf.dll
+c:\users\hp\documents\visual studio 2015\Projects\material design\material design\bin\Debug\MaterialDesignThemes.Wpf.pdb
+c:\users\hp\documents\visual studio 2015\Projects\material design\material design\bin\Debug\MaterialDesignThemes.Wpf.xml
+c:\users\hp\documents\visual studio 2015\Projects\material design\material design\obj\Debug\material design.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\material design\material design\obj\Debug\MainWindow.g.cs
+c:\users\hp\documents\visual studio 2015\Projects\material design\material design\obj\Debug\App.g.cs
+c:\users\hp\documents\visual studio 2015\Projects\material design\material design\obj\Debug\material design_MarkupCompile.cache
+c:\users\hp\documents\visual studio 2015\Projects\material design\material design\obj\Debug\material design_MarkupCompile.lref
+c:\users\hp\documents\visual studio 2015\Projects\material design\material design\obj\Debug\App.baml
+c:\users\hp\documents\visual studio 2015\Projects\material design\material design\obj\Debug\MainWindow.baml
+c:\users\hp\documents\visual studio 2015\Projects\material design\material design\obj\Debug\material design.g.resources
+c:\users\hp\documents\visual studio 2015\Projects\material design\material design\obj\Debug\material_design.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\material design\material design\obj\Debug\material design.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\material design\material design\obj\Debug\material design.exe
+c:\users\hp\documents\visual studio 2015\Projects\material design\material design\obj\Debug\material design.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\material design\material design\obj\Debug\Home.g.cs
+C:\Users\hp\Documents\Visual Studio 2015\Projects\material design\material design\obj\Debug\Home.baml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\material design\material design\bin\Debug\MySql.Data.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\material design\material design\bin\Debug\MySql.Data.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\material design\material design\obj\Debug\Window1.g.cs
+C:\Users\hp\Documents\Visual Studio 2015\Projects\material design\material design\obj\Debug\Window1.baml
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\bin\Debug\material design.exe.config
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\obj\Debug\material design.exe
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\obj\Debug\material design.pdb
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\bin\Debug\material design.exe
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\bin\Debug\material design.pdb
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\bin\Debug\MaterialDesignColors.dll
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\obj\Debug\material design.csprojResolveAssemblyReference.cache
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\obj\Debug\Home.g.cs
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\obj\Debug\MainWindow.g.cs
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\obj\Debug\Window1.g.cs
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\obj\Debug\App.g.cs
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\obj\Debug\material design_MarkupCompile.cache
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\obj\Debug\material design_MarkupCompile.lref
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\obj\Debug\App.baml
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\obj\Debug\Home.baml
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\obj\Debug\MainWindow.baml
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\obj\Debug\Window1.baml
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\obj\Debug\material design.g.resources
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\obj\Debug\material_design.Properties.Resources.resources
+C:\Users\OKOTEL JOSHUA\Desktop\material design\material design\obj\Debug\material design.csproj.GenerateResource.Cache
